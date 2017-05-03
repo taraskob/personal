@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<personal_data>
+   <person id="1000">
+      <firstname>Jack</firstname>
+      <surname>Nickolson</surname>
+      <birthday>25.03.1987</birthday>
+      <street>Gardens, 23</street>
+      <city>Manchester</city>
+      <zip>123450</zip>
+      <homephone>2654320</homephone> 
+      <workphone>2654320</workphone> 
+      <cellphone>80542654020</cellphone>
+   </person>
+   <person id="1001">
+      <firstname>Jane</firstname>
+      <surname>Jones</surname>
+      <birthday>05.09.1997</birthday>
+      <street>Ford, 235</street>
+      <city>Toronto</city>
+      <zip>123011</zip>
+      <homephone>2654321</homephone>
+      <cellphone>0542654021</cellphone>
+       <workphone>3456791</workphone>
+   </person>
+   <person id="1002">
+      <firstname>Alfred</firstname>
+      <surname>Marx</surname>
+      <birthday>05.09.1990</birthday>
+      <street>Kohl, 2</street>
+      <city>Dresden</city>
+      <zip>123012</zip>
+      <homephone>2654322</homephone>
+      <cellphone>0542654022</cellphone>
+      <workphone>3456792</workphone>
+   </person>
+   <person id="1003">
+      <firstname>Sofia</firstname>
+      <surname>Ramires</surname>
+      <birthday>30.08.1996</birthday>
+      <street>Sombrero, 6</street>
+      <city>Malaga</city>
+      <zip>123013</zip>
+      <homephone>2654323</homephone>
+      <cellphone>0542654023</cellphone>
+      <workphone>3456793</workphone>
+   </person>
+   <person id="1004">
+      <firstname>Juliette</firstname>
+      <surname>Binoche</surname>
+      <birthday>09.03.1998</birthday>
+      <street>Limbaud, 46</street>
+      <city>Bordeaux</city>
+      <zip>123014</zip>
+      <homephone>2654324</homephone>
+      <cellphone>0542654024</cellphone>
+      <workphone>3456794</workphone>
+   </person>
+   <person id="1005">
+      <firstname>Michael</firstname>
+      <surname>McDonald</surname>
+      <birthday>29.10.1988</birthday>
+      <street>Glenmorangie, 17</street>
+      <city>Glasgow</city>
+      <zip>123015</zip>
+      <homephone>2654325</homephone>
+      <cellphone>0542654025</cellphone>
+      <workphone>3456795</workphone>
+   </person>
+   <person id="1006">
+      <firstname>Michelle</firstname>
+      <surname>Rodriguez</surname>
+      <birthday>12.07.1978</birthday>
+      <street>Pinto, 7</street>
+      <city>San Antonio</city>
+      <zip>123016</zip>
+      <homephone>2654326</homephone>
+      <cellphone>0542654026</cellphone>
+      <workphone>3456796</workphone>
+   </person>
+   <person id="1007">
+      <firstname>John</firstname>
+      <surname>Woods</surname>
+      <birthday>04.07.1976</birthday>
+      <street>5thAvenue, 10</street>
+      <city>New York</city>
+      <zip>123017</zip>
+      <homephone>2654327</homephone>
+      <cellphone>0542654027</cellphone>
+      <workphone>3456797</workphone>
+      </person>
+   <person id="1008">
+      <firstname>Richard</firstname>
+      <surname>Grossmann</surname>
+      <birthday>14.12.2002</birthday>
+      <street>Lemberg, 3</street>
+      <city>Hannover</city>   
+      <zip>123018</zip>
+      <homephone>2654328</homephone>
+      <cellphone>0542654028</cellphone>
+      <workphone>3456798</workphone>
+   </person>
+   <person id="1009">
+      <firstname>Michelle</firstname>
+      <surname>Wie</surname>
+      <birthday>11.12.1989</birthday>
+      <street>Oahu, 13</street>
+      <city>Honolulu</city>
+      <zip>123019</zip>
+      <homephone>2654329</homephone>
+      <cellphone>0542654029</cellphone>
+      <workphone>3456799</workphone>
+   </person>
+</personal_data>
